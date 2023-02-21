@@ -1,0 +1,17 @@
+/* .W3 Third */
+.third{float:left;width:100%}
+@media (min-width:601px){.third{width:33.33333%}
+
+/* .W3 Row Padding */
+.row-padding,.row-padding>.third{padding:0 8px;}
+
+/* .W3 Container */
+.container,.panel{padding:0.01em 16px}.panel{margin-top:16px;margin-bottom:16px}
+
+.banner{color:red!important;background-color:black!important}
+.banner:hover{color:#fff!important;background-color:red!important}
+
+footer{color:red;background-color:black;padding:16px}
+section{padding-bottom: 700px;}
+
+body{font-family: Arial, Helvetica, sans-serif;background-color: white;color: black;margin: 0px;padding:0px}
